@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "firstName": "mother",
+      "lastName": "theressa",
+      "subjectId": "1",
+      "id": "1"
+    },
+    {
+      "firstName": "prakash",
+      "lastName": "Raj",
+      "subjectId": "2",
+      "id": "2"
+    },
+    {
+      "firstName": "Nithya",
+      "lastName": "Menon",
+      "subjectId": "1",
+      "id": "3"
+    }
+  ],
+  "subject": [
+    {
+      "id": 1,
+      "name": "API functional testing"
+    },
+    {
+      "id": 2,
+      "name": "API perfomance testing"
+    }
+  ]
+}
