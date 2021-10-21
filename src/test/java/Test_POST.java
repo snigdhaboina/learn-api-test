@@ -22,6 +22,6 @@ public class Test_POST {
                 .accept(ContentType.JSON)
                 .contentType(ContentType.JSON)
                 //Any of above 3 headers r same
-                .body(req.toString()).when().put("https://reqres.in/api/users").then().statusCode(200).log().all();
+                .body(req.toString()).when().post("https://reqres.in/api/users").then().statusCode(201).log().all();
     }
 }
