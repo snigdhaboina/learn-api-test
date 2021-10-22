@@ -17,6 +17,18 @@
       "lastName": "Menon",
       "subjectId": "1",
       "id": "3"
+    },
+    {
+      "firstName": "Snigdha",
+      "lastName": "Boina",
+      "id": "6",
+      "subjectId": "1"
+    },
+    {
+      "firstName": "Sri",
+      "lastName": "Lasya",
+      "id": "7",
+      "subjectId": "2"
     }
   ],
   "subject": [
